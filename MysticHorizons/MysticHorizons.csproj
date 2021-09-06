@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="MysticHorizonsLib">
+      <HintPath>..\..\MysticHorizonsLib\MysticHorizonsLib\bin\Release\net5.0\MysticHorizonsLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
